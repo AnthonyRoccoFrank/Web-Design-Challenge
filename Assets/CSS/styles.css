@@ -1,0 +1,15 @@
+body {
+    background-color: hsl(210, 3%, 77%);
+  }
+
+  .white {
+    background: white;
+  }
+
+  .margin {
+    margin-top: 40px;
+  }
+
+ h1 {
+    color : #5a28e6
+ }
